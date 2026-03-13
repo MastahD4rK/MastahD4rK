@@ -1,21 +1,17 @@
-## Hi there 👋
-
-<!--
-**MastahD4rK/MastahD4rK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <samp>> Hello World!</samp>
+## <samp>yeah!</samp>
 <p align="left">
   <img src="https://cdn.simpleicons.org/webassembly/654FF0" alt="WebAssembly" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/dotenv/ECD53F" alt=".ENV" width="40" height="40" />
+</p>
+
+---
+
+## <samp>GitHub</samp>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MastahD4rK&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MastahD4rK&layout=compact&theme=tokyonight" alt="Langs" height="150" />
 </p>
