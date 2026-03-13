@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://cdn.simpleicons.org/webassembly/654FF0" alt="WebAssembly" width="40" height="40" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/webassembly/654FF0" alt="WebAssembly" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/dotenv/ECD53F" alt=".ENV" width="40" height="40" />
+</p>
